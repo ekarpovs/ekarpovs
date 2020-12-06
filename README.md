@@ -21,7 +21,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-grey?style=for-the-badge&logo=Angular&logoColor=white&labelColor=8E2DE2)
 ![WEbPack](https://img.shields.io/badge/-WEbPack-grey?style=for-the-badge&logo=WEbPack&logoColor=white&labelColor=8E2DE2)
 ![SPA](https://img.shields.io/badge/-SPA-grey?style=for-the-badge&logo=SPA&logoColor=white&labelColor=8E2DE2)
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-grey?style=for-the-badge&logo=RESTAPI&logoColor=white&labelColor=8E2DE2)
+![REST API](https://img.shields.io/badge/-REST%20API-grey?style=for-the-badge&logo=RESTAPI&logoColor=white&labelColor=8E2DE2)
 
 <p><strong>Databases:</strong></p>
 
@@ -30,13 +30,19 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![Redis](https://img.shields.io/badge/-Redis-grey?style=for-the-badge&logo=redis&logoColor=white&labelColor=8E2DE2)
 
-<p><strong>Tools and Version control:</strong></p>
+<p><strong>CI/CD, Tools, Version control, .e.t.c:</strong></p>
 
+![CircleCI](https://img.shields.io/badge/-CircleCI-grey?style=for-the-badge&logo=CircleCI&logoColor=white&labelColor=8E2DE2)
 ![Postman](https://img.shields.io/badge/-Postman-grey?style=for-the-badge&logo=Postman&logoColor=white&labelColor=8E2DE2)
+![jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
 <p><strong>And much more...</strong></p>
+
+- 🔭 I’m currently working on image processing project.
+- 🌱 I’m currently learning image processing with OpenCV.
+
 
 <!--
 **ekarpovs/ekarpovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
