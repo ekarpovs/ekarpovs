@@ -30,13 +30,14 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![Redis](https://img.shields.io/badge/-Redis-grey?style=for-the-badge&logo=redis&logoColor=white&labelColor=8E2DE2)
 
-<p><strong>CI/CD, Tools, Version control, .e.t.c:</strong></p>
+<p><strong>CI/CD, Version control, Tools, e.t.c:</strong></p>
 
 ![CircleCI](https://img.shields.io/badge/-CircleCI-grey?style=for-the-badge&logo=CircleCI&logoColor=white&labelColor=8E2DE2)
-![Postman](https://img.shields.io/badge/-Postman-grey?style=for-the-badge&logo=Postman&logoColor=white&labelColor=8E2DE2)
-![jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=8E2DE2)
+![Docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=Docker&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![Postman](https://img.shields.io/badge/-Postman-grey?style=for-the-badge&logo=Postman&logoColor=white&labelColor=8E2DE2)
+![jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=8E2DE2)
 
 <p><strong>And much more...</strong></p>
 
