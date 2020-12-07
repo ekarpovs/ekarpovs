@@ -12,13 +12,13 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 
 <p><strong>Web:</strong></p>
 
 ![HTML5](https://img.shields.io/badge/-html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/-css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![Angular](https://img.shields.io/badge/-Angular-grey?style=for-the-badge&logo=Angular&logoColor=white&labelColor=8E2DE2)
+![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![WEbPack](https://img.shields.io/badge/-WEbPack-grey?style=for-the-badge&logo=WEbPack&logoColor=white&labelColor=8E2DE2)
 ![SPA](https://img.shields.io/badge/-SPA-grey?style=for-the-badge&logo=SPA&logoColor=white&labelColor=8E2DE2)
 ![REST API](https://img.shields.io/badge/-REST%20API-grey?style=for-the-badge&logo=RESTAPI&logoColor=white&labelColor=8E2DE2)
