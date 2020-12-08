@@ -1,5 +1,5 @@
 # I am a software developer 
-## and image processing hobbyist. [Badge](https://www.credly.com/credit/23353049)
+## and image-processing hobbyist. [Badge](https://www.credly.com/credit/23353049)
 
 ![bckgr1](https://user-images.githubusercontent.com/34711686/101488081-cab1d980-3967-11eb-858b-4b0f1df85fdd.jpg)
 
@@ -41,8 +41,8 @@
 
 <p><strong>And much more...</strong></p>
 
-- 🔭 I’m currently working on image processing project.
-- 🌱 I’m currently learning image processing with OpenCV.
+- 🔭 I’m currently working on image-processing project.
+- 🌱 I’m currently learning image-processing with OpenCV.
 
 
 <!--
