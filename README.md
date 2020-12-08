@@ -1,7 +1,7 @@
 # I am a software developer 
 ## and image processing hobbyist. [Badge](https://www.credly.com/credit/23353049)
 <!-- ![BckGr](bckgr1.jpg) -->
-<p><img align="center" src="bckgr1.jpg"/></p>
+![bckgr1](https://user-images.githubusercontent.com/34711686/101488081-cab1d980-3967-11eb-858b-4b0f1df85fdd.jpg)
 
 <p><strong>Experience and Skills:</strong></p>
 
