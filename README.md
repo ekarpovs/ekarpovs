@@ -1,4 +1,5 @@
-# I am a software developer and image processing hobbyist (https://www.credly.com/credit/23353049)
+# I am a software developer 
+## and image processing hobbyist. [Badge](https://www.credly.com/credit/23353049)
 <!-- ![BckGr](bckgr1.jpg) -->
 <p><img align="center" src="bckgr1.jpg"/></p>
 
