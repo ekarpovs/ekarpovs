@@ -9,7 +9,6 @@
 ![C](https://img.shields.io/badge/-C/C++-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 
