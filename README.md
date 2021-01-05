@@ -13,8 +13,9 @@
 ![C](https://img.shields.io/badge/-C/C++-grey?style=flat&logo=c&logoColor=white&labelColor=A8B9CC)
 ![Java](https://img.shields.io/badge/-java-grey?style=flat&logo=java&logoColor=white&labelColor=007396)
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python&logoColor=white&labelColor=3776AB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=flat&logo=typescript&logoColor=white&labelColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=flat&logo=typescript&logoColor=white&labelColor=007ACC)
+![NativeScript](https://img.shields.io/badge/-NativeScript-grey?style=flat&logo=nativescript&logoColor=a3cde9&labelColor=007ACC)
 
 **Web:**
 
@@ -42,11 +43,12 @@
 ![Postman](https://img.shields.io/badge/-Postman-grey?style=flat&logo=Postman&logoColor=white&labelColor=FF6C37)
 ![jest](https://img.shields.io/badge/-jest-grey?style=flat&logo=jest&logoColor=white&labelColor=C21325)
 
-**And much more...**
+**And much, much more...**
 
-- 🔭 I’m currently working on image-processing project.
+- 🔭 I’m currently:
+  - working on an image-processing project;
+  - playing around with GitHub features (Projects, GitHub Actions, GitHub Pages, etc.)
 - 🌱 I’m currently learning image-processing with OpenCV.
-
 
 <!--
 **ekarpovs/ekarpovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
