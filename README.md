@@ -48,7 +48,7 @@
 - 🔭 I’m currently:
   - working on an image-processing project;
   - playing around with GitHub features (Projects, GitHub Actions, GitHub Pages, etc.)
-- 🌱 I’m currently learning image-processing with OpenCV.
+  - learning image-processing with OpenCV.
 
 <!--
 **ekarpovs/ekarpovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
